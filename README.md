@@ -1,6 +1,7 @@
 # DICE-GAME
 Created this DICE GAME using HTML, CSS, JavaScript.
 <br>
+<br>
 RULES:<br>
 1)This is a two player game.<br>
 2)The player who scores 100 points first using dice will be the Winner! <br>
