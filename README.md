@@ -3,6 +3,7 @@ Created this DICE GAME using HTML, CSS, JavaScript.
 <br>
 <br>
 RULES:<br>
+<br>
 1)This is a two player game.<br>
 2)The player who scores 100 points first using dice will be the Winner! <br>
 3)When the score on dice is 1, the chance automatically goes to the other player that is when there's 1 on dice on player1 the dice is  automatically switched to player2.<br>
