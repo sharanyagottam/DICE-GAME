@@ -8,6 +8,7 @@ RULES:<br>
 4)All the score scored by any player(player1 or player2) is saved and added to the old score.<br>
 5)When dice shows up '1' then player is switched and score is also switched to respective player.<br>
 6)In this way whoever scores a total sum of '100' will win.<br>
+<br>
 HOW TO PLAY???<br>
 1) Roll the dice until the dice shows '1'.
 2) After rolling dice for few times or any number of times use 'HOLD' option to save the score.
