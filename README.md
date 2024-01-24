@@ -1,5 +1,4 @@
-Click this link to play the game: https://sharanyagottam.github.io/DICE-GAME/
-<br>
+
 # DICE-GAME
 Created this DICE GAME using HTML, CSS, JavaScript.
 <br>
